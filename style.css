@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+    background-color: lightgreenS;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color:blueviolet;
+    background-color: blue;
+    font-weight: bold;
+}
